@@ -68,7 +68,7 @@ public class BanqueClient {
 					System.out.println("Quel est l'id :");
 					id = scan.nextLine();
 					// et la somme
-					System.out.println("Quel est la somme initiale :");
+					System.out.println("Quelle est la somme initiale :");
 					somme = scan.nextDouble();
 					// on tente de créer le compte
 					try {
@@ -95,7 +95,7 @@ public class BanqueClient {
 					System.out.println("Quel est l'id :");
 					id = scan.nextLine();
 					// et la somme
-					System.out.println("Quel est la somme :");
+					System.out.println("Quelle est la somme :");
 					somme = scan.nextDouble();
 					// on tente d'ajouter au compte
 					try {
@@ -110,7 +110,7 @@ public class BanqueClient {
 					System.out.println("Quel est l'id :");
 					id = scan.nextLine();
 					// et la somme
-					System.out.println("Quel est la somme :");
+					System.out.println("Quelle est la somme :");
 					somme = scan.nextDouble();
 					// on tente de retirer du compte
 					try {
